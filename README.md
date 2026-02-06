@@ -33,14 +33,6 @@ To compile and run the programs, you need:
 
 ---
 
-## ▶️ Compilation and Execution
-
-Use the following commands in the terminal:
-
-```bash
-gcc program_name.c -o program_name
-./program_name
-
 > 📌 Note
 >
 > This repository contains a collection of old programs that I wrote during my early learning phase in programming.
